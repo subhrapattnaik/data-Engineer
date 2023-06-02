@@ -1,0 +1,22 @@
+At PwC - AC, we are looking for an Snowflake Manager - Data & AI who will have:
+
+Hands-on experience with Snowflake utilities for more than 6 yrs, SnowSQL, SnowPipe, Big Data model techniques using Python / Java
+Experience in Data Migration from RDBMS to Snowflake cloud data warehouse
+Handling large and complex sets of XML, JSON, and CSV from various sources and databases
+Experience in load from disparate data sets and translate complex functional and technical requirements into detailed design
+Should be aware in deploying Snowflake features such as data sharing, events and lake-house patterns
+Should have experience with data security and data access controls and design
+Deep understanding of relational as well as NoSQL data stores, methods and approaches (star and snowflake, dimensional modeling)
+Good to have AWS, Azure or GCP data storage and management technologies such as S3, Blob/ADLS and Google Cloud Storage
+Should have a good understanding of Data Quality processes, methods and project lifecycle.
+Experience validating the ETL and writing SQL queries
+Strong knowledge in DWH concepts
+Should have clear understanding of DW Lifecycle and contributed in preparing technical design documents and test plans
+Good analytical & problem-solving skills
+Good communication and presentation skills
+
+Work Location - Anywhere in India
+
+Additional Job Description Desired Knowledge / Skills
+
+Experience / Knowledge on other ETL tools like Informatica PC, Talend, Snaplogic Experience / Knowledge in R programming Cloud data technologies, Data Lake, Big Data Worked in Offshore / Onsite Engagements
