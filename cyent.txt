@@ -1,0 +1,20 @@
+Cyient is a global engineering and technology solutions company. As a Design, Build, and Maintain partner for leading organizations worldwide, we take solution ownership across the value chain to help clients focus on their core, innovate, and stay ahead of the curve. We leverage digital technologies, advanced analytics capabilities, and our domain knowledge and technical expertise, to solve complex business problems.
+
+With over 15,000 employees globally, we partner with clients to operate as part of their extended team in ways that best suit their organization’s culture and requirements. Our industry focus includes aerospace and defence, healthcare, telecommunications, rail transportation, semiconductor, geospatial, industrial, and energy.
+
+Job Description
+Connecting data into Power BI various sources like Excel, CSV, SharePoint files & folders.
+Working on Power Query editor for Data formatting to Clean & Model the Data as per required.
+Working on Advance editor, adding new columns, Merge & Append Queries, Data Type, Replace Values, Handling Error Values, Pivot & Unpivot Columns.
+Working on Calculated columns, Measures, Tables by using DAX functions.
+Developing the dashboards by using various Charts like Bar Chart, Column Chart, Line Chart, Line with Column Chart, Pie Chart, Donut Chart, Gauge, Card, Table, Matrix table, Small and Multiple Chart. Importing Custom Visuals from Microsoft Power Bi gallery as per requirement.
+Working on Slicers & Filters, Drill-through pages, Bookmarks, Buttons, Advanced Tool Tips, Sync Slicers.
+Publishing Reports into the Power BI Report Server and Scheduled the dashboard refreshing.
+To maintain Continues-working relation with customer to accomplish project tasks, we have adopted Agile Methodology to Co- ordinate and plan the project between Onsite & Offshore team. We plan and build Reports Draft copies, decide upon Robust Data sources, dividing tasks to sprints and review them through scrum meetings, Maintaining project planner (Gantt Chart)/jira ticketing software.
+Hands on experience in handing Data sources like SQL ,AWS will be added advantage
+Hands on Experience in writing python coding with be added advantage
+Good to have knowledge on R script.
+
+Skills & Experience
+
+Agile Methodology, Microsoft Power BI, Structured Query Language (SQL)
